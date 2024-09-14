@@ -1,0 +1,37 @@
+html {
+    background-color: antiquewhite;
+   }
+   h1 {
+    text-align: center;
+   }
+   .heading {
+    font-weight: 700;
+    text-align: left;
+   }
+   .info {
+    display: inline;
+    padding: 115px;
+   }
+   li {
+    text-align: left;
+   }
+   .skills {
+    display: flex;
+    gap: 200px;
+   }
+   .workplace {
+    font-weight: 800;
+   }
+   .date {
+    font-weight: 800;
+    float: right;
+   }
+   .certification {
+    display: flex;
+    padding-left: 100px;
+    gap: 220px;
+   }
+   .vl {
+    border-left: 1px solid grey;
+    height: 300px;
+   }
